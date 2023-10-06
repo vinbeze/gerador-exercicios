@@ -1,0 +1,62 @@
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.tar.gz
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Windows 11
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Debian
+*~
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Directories used by popular IDEs and editors.
+/.idea
+/.vscode
+
+# Directories used by pytest.
+/.pytest_cache
+
+# Directories used by Python's setuptools.
+/dist/
+/build/
+/eggs/
+/parts/
+/var/
+/sdist/
+/develop-eggs/
+/.installed.cfg
+
+# Directories used by tox.
+/.tox/
+
+# Directories used by Sphinx.
+/_build/
+
